@@ -1,4 +1,4 @@
 Main()
 second commit
 fix some bugs
-#we should add a new feature
+sure, feature1 added
