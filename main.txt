@@ -2,3 +2,4 @@ Main()
 second commit
 fix some more bugs
 sure, feature1 added
+some functions were modified
